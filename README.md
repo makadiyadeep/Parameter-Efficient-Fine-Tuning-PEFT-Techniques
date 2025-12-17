@@ -1,2 +1,3 @@
 # Parameter-Efficient-Fine-Tuning-PEFT-Techniques
 This project presents a comparative analysis of LoRA, AdapterFusion, QLora and Full Fine-Tuning using BERT-based models on benchmark text classification datasets such as SST-2. Each method is evaluated on key performance metrics, including accuracy, training time, and GPU utilization.
+This comparative study aims to analyze the trade-offs between efficiency and performance among different fine-tuning approaches. The results demonstrate how PEFT methods particularly QLoRA enable scalable and resource-efficient fine-tuning of large models while achieving near state-of-the-art performance.
